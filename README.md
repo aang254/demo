@@ -12,3 +12,9 @@
 | [![Accounts](https://raw.githubusercontent.com/aang254/demo/master/images/DS%20Image.jpg "Accounts")](https://raw.githubusercontent.com/aang254/demo/master/images/DS%20Image.jpg "Accounts")  | Accounts Project |
 | Banking Project | [![Banking](https://raw.githubusercontent.com/aang254/demo/master/images/DS%20Image.jpg "Banking")](https://raw.githubusercontent.com/aang254/demo/master/images/DS%20Image.jpg "Banking")  |
 | [![Energy](https://raw.githubusercontent.com/aang254/demo/master/images/DS%20Image.jpg "Energy")](https://raw.githubusercontent.com/aang254/demo/master/images/DS%20Image.jpg "Energy")  |  Energy Project |
+
+```python
+for i in range(0,100,3):
+	print("Hello")
+print('done')
+```
